@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="3" failures="0" errors="0" time="1.11">
-  <testsuite name="AppComponent" errors="0" failures="0" skipped="0" timestamp="2025-04-29T11:07:26" time="0.556" tests="3">
-    <testcase classname="AppComponent should create the app" name="AppComponent should create the app" time="0.055">
+<testsuites name="jest tests" tests="3" failures="0" errors="0" time="1.508">
+  <testsuite name="AppComponent" errors="0" failures="0" skipped="0" timestamp="2025-04-29T12:25:52" time="1.052" tests="3">
+    <testcase classname="AppComponent should create the app" name="AppComponent should create the app" time="0.073">
     </testcase>
     <testcase classname="AppComponent should have the &apos;autentfrontend&apos; title" name="AppComponent should have the &apos;autentfrontend&apos; title" time="0.006">
     </testcase>
-    <testcase classname="AppComponent should render title" name="AppComponent should render title" time="0.009">
+    <testcase classname="AppComponent should render title" name="AppComponent should render title" time="0.008">
     </testcase>
   </testsuite>
 </testsuites>
