@@ -8,4 +8,9 @@ module.exports = {
   transformIgnorePatterns: [
     '/node_modules/(?!flat)/',
   ],
+
+  reporters: [
+    "default",
+    ["jest-junit", { outputDirectory: "reports", outputName: "junit.xml" }]
+  ]
 };
